@@ -1,5 +1,7 @@
 # Multi-class News Classification using BERT
 
+Google Colab Link - https://colab.research.google.com/drive/1qoMCEMdapmS8xOFtzOF4Kpji2-1ETOzY#scrollTo=ZS6BqcXdInLy
+
 ## Introduction:
 This project aims to perform multi-class classification on news articles from the BBC News dataset. The goal is to predict the category of each article from one of five categories: business, entertainment, politics, sport, and tech.
 
